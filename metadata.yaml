@@ -1,0 +1,29 @@
+_repo: From-the-Bottom-Up--The-Life-Story-of-Alexander-Irvine_17881
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Irvine, Alexander
+    alias: Irvine, Alexander Fitzgerald
+    birthdate: 1863
+    deathdate: 1941
+    gutenberg_agent_id: '7670'
+    url: http://www.gutenberg.org/2009/agents/7670
+description: ''
+gutenberg_issued: '2006-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17881'
+  lccn: '10005852'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Socialism'
+- !lcsh 'Irvine, Alexander, 1863-1941'
+- !lcc 'HX'
+title: 'From the Bottom Up: The Life Story of Alexander Irvine'
+url: http://www.gutenberg.org/ebooks/17881
